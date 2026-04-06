@@ -63,7 +63,7 @@ The recommendation system successfully identifies movies with similar themes and
 Example:
 
 Input movie:
-
+```
 Interstellar 
 
 
@@ -73,7 +73,7 @@ Interstellar
 3. Inception <br />
 4. Arrival <br />
 5. Contact
-
+```
 
 # How to Run the Project
 
