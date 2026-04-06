@@ -63,8 +63,8 @@ The recommendation system successfully identifies movies with similar themes and
 Example:
 
 Input movie:
-```
-Interstellar ```
+
+Interstellar 
 
 
 ## Recommended movies:
