@@ -68,10 +68,10 @@ Interstellar
 
 
 ## Recommended movies:
-1. The Martian <br />
-2. Gravity <br />
-3. Inception <br />
-4. Arrival <br />
+1. The Martian
+2. Gravity
+3. Inception
+4. Arrival
 5. Contact
 ```
 
